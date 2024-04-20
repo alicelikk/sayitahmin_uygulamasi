@@ -1,6 +1,6 @@
 # sayitahmin_uygulamasi
 
-A new Flutter project.
+Bu oyunda kullanıcı, random üretilen bir sayıyı tahmin etmeye çalışıyor. Kullanıcının girdiği değerlere göre ipuçları veren bu uygulamada belirli bir tahminden sonra oyun son buluyor. Duruma göre "başarılı/başarısız" ekranı gösteriliyor.
 
 ## Getting Started
 
